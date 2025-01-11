@@ -11,7 +11,7 @@ import (
     "gorm.io/driver/mysql"
     "gorm.io/gorm"
     "gorm.io/gorm/logger"
-    "github.com/kevincobain2000/gormlog"
+    gormlog "github.com/kevincobain2000/gormlog/slog"
 )
 
 dsn := "user:pass@tcp(127.0.0.1:3306)/mydb"
