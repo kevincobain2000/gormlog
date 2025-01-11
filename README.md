@@ -2,8 +2,6 @@
   Missing Gorm log/slog
 </h1>
 
----
-
 Use GO's `log/slog` as Gorm logger.
 
 ## Usage
