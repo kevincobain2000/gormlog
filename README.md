@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Missing Gorm log/slog
-</p>
+</h1>
 
 ---
 
