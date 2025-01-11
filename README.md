@@ -8,9 +8,9 @@ Use GO's `log/slog` as Gorm logger.
 
 ```go
 import (
-	"gorm.io/driver/mysql"
-	"gorm.io/gorm"
-	"gorm.io/gorm/logger"
+    "gorm.io/driver/mysql"
+    "gorm.io/gorm"
+    "gorm.io/gorm/logger"
     "github.com/kevincobain2000/gormlog"
 )
 
